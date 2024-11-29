@@ -1,6 +1,3 @@
-import { url } from 'inspector'
-import React from 'react'
-
 const Landing = () => {
   return (
     <div className='min-h-screen bg-cover bg-center grid place-content-center border border-dotted border-red-500' style={{ backgroundImage: `url('https://subverted.io/wp-content/uploads/2024/10/Mountain_Scape.png')` }}>
